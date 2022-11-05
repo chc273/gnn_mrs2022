@@ -1,4 +1,5 @@
-# gnn_mrs2022
+# Graph Neural Network for Materials and Chemistry
+ 
 MRS2022 Tutorial on Graph Neural Network
 
 ## Installation
